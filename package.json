@@ -13,6 +13,7 @@
     "brain-games": "bin/brain-games.js"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "node": "^20.2.0"
   }
 }
