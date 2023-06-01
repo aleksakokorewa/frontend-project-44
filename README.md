@@ -1,9 +1,9 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/aleksakokorewa/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/aleksakokorewa/frontend-project-44/actions)
 
-[!Maintainamility](<a href="https://codeclimate.com/github/aleksakokorewa/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/529fc931386c89928730/maintainability" /></a>)
+[![Maintainability](https://api.codeclimate.com/v1/badges/529fc931386c89928730/maintainability)](https://codeclimate.com/github/aleksakokorewa/frontend-project-44/maintainability)
 
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/99ed9c3dc51e2d996625/maintainability)](https://codeclimate.com/github/MorbidDesire/frontend-project-44/maintainability)
 ## Download
 
 ```bash
@@ -23,4 +23,4 @@ npm link
 make brain-even
 ```
 
-[![Brain-even] (https://asciinema.org/a/wrMTBxoVauxz7b6Tdyewmnco9)
+[![Brain-even](https://asciinema.org/a/wrMTBxoVauxz7b6Tdyewmnco9.svg)](https://asciinema.org/a/wrMTBxoVauxz7b6Tdyewmnco9)
