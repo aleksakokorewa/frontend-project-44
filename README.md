@@ -3,7 +3,6 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/529fc931386c89928730/maintainability)](https://codeclimate.com/github/aleksakokorewa/frontend-project-44/maintainability)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/99ed9c3dc51e2d996625/maintainability)](https://codeclimate.com/github/MorbidDesire/frontend-project-44/maintainability)
 ## Download
 
 ```bash
