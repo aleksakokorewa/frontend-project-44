@@ -32,6 +32,8 @@ make brain-calc
 
 [![Brain-calc](https://asciinema.org/a/X32HiKeMtaqSrHCLpFoqBATpm.svg)](https://asciinema.org/a/X32HiKeMtaqSrHCLpFoqBATpm)
 
+## Run Brain-Gcd
+
 ```bash
 make brain-gcd
 ```
