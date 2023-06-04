@@ -31,3 +31,9 @@ make brain-calc
 ```
 
 [![Brain-calc](https://asciinema.org/a/X32HiKeMtaqSrHCLpFoqBATpm.svg)](https://asciinema.org/a/X32HiKeMtaqSrHCLpFoqBATpm)
+
+```bash
+make brain-gcd
+```
+
+[![Brain-gcd](https://asciinema.org/a/WU6nbB4gH7nDufBMNGD9HsrND.svg)(https://asciinema.org/a/WU6nbB4gH7nDufBMNGD9HsrND)
