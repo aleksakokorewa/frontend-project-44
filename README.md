@@ -22,4 +22,12 @@ npm link
 make brain-even
 ```
 
-[![Brain-even](https://asciinema.org/a/wrMTBxoVauxz7b6Tdyewmnco9.svg)](https://asciinema.org/a/wrMTBxoVauxz7b6Tdyewmnco9)
+[![Brain-even](https://asciinema.org/a/gil2VAjJmdUAwbloGx6eh4TRu.svg)](https://asciinema.org/a/gil2VAjJmdUAwbloGx6eh4TRu)
+
+## Run Brain-Calc
+
+```bash
+make brain-calc
+```
+
+[![Brain-calc](https://asciinema.org/a/X32HiKeMtaqSrHCLpFoqBATpm.svg)](https://asciinema.org/a/X32HiKeMtaqSrHCLpFoqBATpm)
