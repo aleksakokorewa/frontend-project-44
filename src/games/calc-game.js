@@ -14,13 +14,13 @@ const calculate = (userOperator, firstNumber, secondNumber) => {
   let answer = '';
   switch (userOperator) {
     case '+':
-      answer = String(firstNumber + secondNumber);
+      answer = firstNumber + secondNumber;
       break;
     case '-':
-      answer = String(firstNumber - secondNumber);
+      answer = firstNumber - secondNumber;
       break;
     case '*':
-      answer = String(firstNumber * secondNumber);
+      answer = firstNumber * secondNumber;
       break;
     default:
       break;

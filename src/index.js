@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import readlineSync from 'readline-sync';
 
 export const rounds = 3;
@@ -13,7 +14,7 @@ function startGame(rules, questionAndAnswer) {
     const [question, correctAnswer] = questionAndAnswer();
     console.log(`Question: ${question}`);
     const answer = readlineSync.question('Your answer: ');
-    if (answer === correctAnswer) {
+    if (answer === correctAnswer.toString()) {
       console.log('Correct!');
     } else {
       console.log(`'${answer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);

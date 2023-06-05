@@ -39,3 +39,11 @@ make brain-gcd
 ```
 
 [![Brain-gcd](https://asciinema.org/a/WU6nbB4gH7nDufBMNGD9HsrND.svg)](https://asciinema.org/a/WU6nbB4gH7nDufBMNGD9HsrND)
+
+## Run Brain-Progression
+
+```bash
+make brain-progression
+```
+
+[![Brain-progression](https://asciinema.org/a/lUAd4IBGQkxTpZLUo7uba10kX.svg)](https://asciinema.org/a/lUAd4IBGQkxTpZLUo7uba10kX)
