@@ -17,7 +17,7 @@ function questionAndAnswer() {
   const firstNumber = generateRandomNumber();
   const step = generateRandomNumber();
   const progression = generateRandomProgression(firstNumber, step);
-  const hiddenNumberIndex = Math.floor(Math.random() * progression.length);
+  const hiddenNumberIndex = Math.round(Math.random() * progression.length);
   const hiddenNumber = progression[hiddenNumberIndex];
   progression[hiddenNumberIndex] = '..';
   return [progression.join(' '), hiddenNumber];

@@ -47,3 +47,11 @@ make brain-progression
 ```
 
 [![Brain-progression](https://asciinema.org/a/lUAd4IBGQkxTpZLUo7uba10kX.svg)](https://asciinema.org/a/lUAd4IBGQkxTpZLUo7uba10kX)
+
+## Run Brain-Prime
+
+```bash
+make brain-prime
+```
+
+[![Brain-prime](https://asciinema.org/a/ixKaxXILTctZIdkFxmpr4aPmy.svg)]( https://asciinema.org/a/ixKaxXILTctZIdkFxmpr4aPmy)
